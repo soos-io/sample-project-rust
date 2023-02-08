@@ -1,8 +1,14 @@
 [package]
 name = "soos-sample-project"
-version = "0.1.0"
+authors = ["SOOS <integrations@soos.io>"]
+version = "1.0.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+license-file = "LICENSE"
+description = "SOOS ( https://soos.io ) is an independent software security company, located in Winooski, VT USA, building security software for your team. Used for testing purposes, this package is an example of a vulnerable package on a public registry."
+homepage = "https://soos.io/"
+repository = "https://github.com/soos-io/sample-project-rust"
+readme = "README.md"
+keywords = ["sample", "testing"]
 
 [dependencies]
