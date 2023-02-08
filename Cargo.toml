@@ -1,7 +1,7 @@
 [package]
 name = "soos-sample-project"
 authors = ["SOOS <integrations@soos.io>"]
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 license = "MIT"
 license-file = "LICENSE"
@@ -12,3 +12,5 @@ readme = "README.md"
 keywords = ["sample", "testing"]
 
 [dependencies]
+aac = "0.0.0"
+acc_reader = "2.0.0"
